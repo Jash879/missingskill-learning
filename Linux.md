@@ -7,16 +7,16 @@
 ![History of Linux](images/History_Linx.jpeg)
 
 ## Linux Command
-![Linux Command](C:\Users\Sagar-pc\Desktop\Linux_command.jpeg)
+![Linux Command](images/Linux_command.jpeg)
 
-![Commands](C:\Users\Sagar-pc\Desktop\Linux_command1.jpeg)
+![Commands](images/Linux_command1.jpeg)
 
 ## How to Use Command
-![Use](C:\Users\Sagar-pc\Desktop\usecommand1.jpeg)
+![Use Command](images/usecommand1.jpeg)
 
-![Use](C:\Users\Sagar-pc\Desktop\usecommand2.jpeg)
+![Use Command](images/usecommand2.jpeg)
 
-![Use](C:\Users\Sagar-pc\Desktop\usecommand3.jpeg)
+![Use Command](images/usecommand3.jpeg)
 
 
 ## Linux File System
