@@ -4,7 +4,7 @@
   * In other term it mediator between h/w and s/w. 
 
 ## History of Linux
-![History of Linux](C:\Users\Sagar-pc\Desktop\History_Linx.jpeg)
+![History of Linux](images/History_Linx.jpeg)
 
 ## Linux Command
 ![Linux Command](C:\Users\Sagar-pc\Desktop\Linux_command.jpeg)
