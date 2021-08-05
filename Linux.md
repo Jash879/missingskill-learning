@@ -20,6 +20,6 @@
 
 
 ## Linux File System
-![File System](C:\Users\Sagar-pc\Desktop\Linux_filesystem.jpeg)
+![File System](images/Linux_filesystem.jpeg)
 
 
